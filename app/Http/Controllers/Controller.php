@@ -12,6 +12,6 @@ class Controller extends BaseController
 
     public function testJenkins()
     {
-        return 'Jenkins test succesasdfasdfsful!';
+        return 'Jenkins test succesasdfasdfsdfasfasdfful!';
     }
 }
