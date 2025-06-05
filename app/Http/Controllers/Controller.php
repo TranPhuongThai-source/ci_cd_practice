@@ -12,6 +12,6 @@ class Controller extends BaseController
 
     public function testJenkins()
     {
-        return '12354345345';
+        return '';
     }
 }
