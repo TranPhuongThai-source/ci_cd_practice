@@ -12,6 +12,6 @@ class Controller extends BaseController
 
     public function testJenkins()
     {
-        return 'Jenkins is working!';
+        return 'Jenkins !';
     }
 }
